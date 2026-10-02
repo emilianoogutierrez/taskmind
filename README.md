@@ -38,4 +38,4 @@ No hay cuentas bases de datos funciones de servidor ni analítica. Los recursos 
 
 ## Material del reto
 
-La [documentación técnica](material/DocumentacionTecnica.md) incluye contexto arquitectura wireframes capturas herramientas y conclusiones. La [bitácora de IA](material/BitacoraIA.md) registra la interacción utilizada durante el desarrollo. El [guion de exposición](material/GuionExposicion.md) acompaña la presentación en PowerPoint.
+La [documentación técnica](material/DocumentacionTecnica.md) incluye contexto arquitectura wireframes capturas herramientas y conclusiones. La [bitácora de IA](material/BitacoraIA.md) registra la interacción utilizada durante el desarrollo. El [guion de exposición](material/GuionExposicion.md) acompaña la [presentación en PowerPoint](material/TaskMindPresentacion.pptx).
