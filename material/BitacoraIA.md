@@ -2,7 +2,7 @@
 
 ## Registro 1
 
-**Prompt enviado:** Se solicitó leer el reto completo proponer un desarrollo local con `localStorage` sin programación inicial y comprobar el acceso a GitHub.
+**Prompt enviado:** Fragmento literal del usuario: «lee el documento completo y entregame una propuesta de desarrollo, no programes nada aun». El mismo mensaje pidió almacenamiento local, código fuente en GitHub y comprobación del acceso para hacer commits.
 
 **Modelo utilizado:** Codex basado en GPT 6.
 
@@ -14,7 +14,7 @@
 
 ## Registro 2
 
-**Prompt enviado:** El usuario autorizó completar el proyecto y eligió GitHub Pages para la publicación.
+**Prompt enviado:** «ok, haz todo, si funcionaria en github pages, hazlo, apurate».
 
 **Modelo utilizado:** Codex basado en GPT 6.
 
@@ -26,11 +26,11 @@
 
 ## Registro 3
 
-**Prompt enviado:** Se pidió terminar el proyecto con rapidez y entregar todos los componentes del reto.
+**Prompt enviado:** «continua y apurate a deployar, se ve muy ia».
 
 **Modelo utilizado:** Codex basado en GPT 6.
 
-**Respuesta y código generado:** Se generaron pruebas de interacción capturas documentación técnica bitácora presentación y guion de exposición. Las pruebas detectaron que un campo llamado `id` interfería con la identificación del formulario. Se cambió la comprobación del evento y se repitieron las pruebas.
+**Respuesta y código generado:** Se reemplazó el diseño promocional por una agenda más sobria. Se generaron pruebas de interacción capturas documentación técnica bitácora presentación y guion de exposición. Las pruebas detectaron que un campo llamado `id` interfería con la identificación del formulario. Se cambió la comprobación del evento y se repitieron las pruebas.
 
 **Ajustes manuales del equipo:** Ninguno registrado hasta esta entrega. La corrección del formulario la realizó Codex tras observar el fallo en el navegador.
 
