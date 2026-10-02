@@ -1,0 +1,10 @@
+{
+  "name": "TaskMind",
+  "short_name": "TaskMind",
+  "description": "Organiza tus tareas escolares sin cuenta",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#151f38"
+}
